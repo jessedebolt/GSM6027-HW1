@@ -1,0 +1,17 @@
+---
+title: "GSM6027-Assign_1"
+author: "Jesse DeBolt and Isaac Johnson"
+format: html
+editor: visual
+---
+
+## Quarto
+
+GSM6027/DATA599-03 Assignment one.
+
+## Running Code
+
+```{r}
+
+
+```
