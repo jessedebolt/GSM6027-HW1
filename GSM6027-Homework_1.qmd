@@ -16,3 +16,11 @@ GSM6027/DATA599-03 Assignment one.
 library(tidyverse)
 mtcars %>% summary
 ```
+
+
+## Plot
+```{r}
+mtcars %>% ggplot() + aes(x=cyl) + geom_bar() + theme_minimal()
+
+```
+
