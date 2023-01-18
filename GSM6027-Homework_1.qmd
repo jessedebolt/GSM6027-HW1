@@ -13,5 +13,6 @@ GSM6027/DATA599-03 Assignment one.
 
 ```{r}
 
-
+library(tidyverse)
+mtcars %>% summary
 ```
